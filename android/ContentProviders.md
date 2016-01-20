@@ -15,9 +15,14 @@
 * User Contacts Content Provider
 
 
-# Content Resolver
+## Content Resolver
 
 Resolves which Content Provider an application is referring to.
+
+
+## References
+
+https://www.udacity.com/course/viewer#!/c-ud258
 
 
 
