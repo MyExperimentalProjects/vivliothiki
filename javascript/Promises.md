@@ -6,16 +6,16 @@
 
 ## Promise Actions
 
-*__fulfilled__    
+* __fulfilled__    
 The action relating to the promise succeeded 
 
-*__rejected__  
+* __rejected__  
 The action relating to the promise failed
 
-*__pending__   
+* __pending__   
 Hasn't fulfilled or rejected yet 
 
-*__settled__     
+* __settled__     
 Has fulfilled or rejected
 
 ## Concepts
