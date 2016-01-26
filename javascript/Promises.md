@@ -23,4 +23,5 @@ __settled__   Has fulfilled or rejected
 
 
 ### Reference :
-http://www.html5rocks.com/en/tutorials/es6/promises/
+* http://www.html5rocks.com/en/tutorials/es6/promises/
+* https://www.udacity.com/course/viewer#!/c-ud898/l-6054218539/e-6092209489/m-6079158552
