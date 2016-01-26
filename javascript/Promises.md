@@ -4,7 +4,7 @@
 * A promise can only succeed or fail once. It cannot succeed or fail twice, neither can it switch from success to failure or vice versa.
 * If a promise has succeeded or failed and you later add a success/failure callback, the correct callback will be called, even though the event took place earlier.
 
-A promise can be:
+## Promise Actions
 
 __fulfilled__ The action relating to the promise succeeded 
 
@@ -14,6 +14,12 @@ __pending__   Hasn't fulfilled or rejected yet
 
 __settled__   Has fulfilled or rejected
 
+## Concepts
+
+* Wrapping
+* Thening
+* Catching
+* Chaining
 
 
 ### Reference :
