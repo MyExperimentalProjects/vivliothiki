@@ -1,2 +1,20 @@
 
 # Promises
+
+* A promise can only succeed or fail once. It cannot succeed or fail twice, neither can it switch from success to failure or vice versa.
+* If a promise has succeeded or failed and you later add a success/failure callback, the correct callback will be called, even though the event took place earlier.
+
+A promise can be:
+
+__fulfilled__ The action relating to the promise succeeded 
+
+__rejected__  The action relating to the promise failed
+
+__pending__   Hasn't fulfilled or rejected yet 
+
+__settled__   Has fulfilled or rejected
+
+
+
+### Reference :
+http://www.html5rocks.com/en/tutorials/es6/promises/
