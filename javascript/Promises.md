@@ -30,3 +30,4 @@ Has fulfilled or rejected
 * http://www.html5rocks.com/en/tutorials/es6/promises/
 * https://www.udacity.com/course/viewer#!/c-ud898/l-6054218539/e-6092209489/m-6079158552
 * https://davidwalsh.name/fetch
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
