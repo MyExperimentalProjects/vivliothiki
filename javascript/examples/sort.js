@@ -30,7 +30,7 @@ var SelectionSort = function(arr) {
     return arr;
 }
 
-var SelectionSort = function(arr) {“
+var InsertionSort = function(arr) {
     "use strict";
     for (let i = 1; i < arr.length; ++i) {
         for (let j = i; j >= 0; --j) {
